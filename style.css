@@ -1,0 +1,9 @@
+body {
+   font-family: 'Roboto Slab', serif;
+   background-color: aliceblue;
+   margin-left:10%;
+}
+
+#showPara1, #showPara2 {
+    font-size:22.5px;
+}
